@@ -1,0 +1,10 @@
+{"file":"PlaneImg.png","frames":{
+"QQ截图20161206154853":{"x":0,"y":570,"w":241,"h":242,"offX":60,"offY":59,"sourceW":367,"sourceH":351},
+"分数":{"x":0,"y":570,"w":241,"h":242,"offX":60,"offY":59,"sourceW":367,"sourceH":351},
+"开始按钮":{"x":0,"y":814,"w":204,"h":81,"offX":0,"offY":0,"sourceW":204,"sourceH":81},
+"开始背景":{"x":0,"y":0,"w":320,"h":568,"offX":0,"offY":0,"sourceW":320,"sourceH":568},
+"游戏结束":{"x":243,"y":570,"w":240,"h":242,"offX":61,"offY":59,"sourceW":367,"sourceH":351},
+"enemy1_down3":{"x":423,"y":248,"w":57,"h":50,"offX":0,"offY":0,"sourceW":57,"sourceH":51},
+"enemy1_fly1":{"x":423,"y":300,"w":51,"h":38,"offX":3,"offY":8,"sourceW":57,"sourceH":51},
+"enemy3_fly1":{"x":322,"y":0,"w":165,"h":246,"offX":2,"offY":2,"sourceW":169,"sourceH":258},
+"hero_fly1":{"x":322,"y":248,"w":99,"h":123,"offX":0,"offY":1,"sourceW":99,"sourceH":124}}}
